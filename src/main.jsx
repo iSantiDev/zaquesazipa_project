@@ -6,9 +6,11 @@ import Hero from './components/Hero/Hero.jsx'
 import theme from '/src/assets/theme.js'
 //#endregion
 
+document.body.style.backgroundColor = theme.palette.background.main;
+
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ThemeProvider bgcolor="mode.dark" theme={theme}>
+    <ThemeProvider theme={theme}>
       <Hero />
     </ThemeProvider>
   </StrictMode>,
