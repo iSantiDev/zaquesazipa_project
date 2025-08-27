@@ -1,15 +1,31 @@
 //#region imports
-import { Typography, Container } from "@mui/material";
+import { Typography, Grid, Box } from "@mui/material";
+import { H1, H2 } from "/src/theme/typography.jsx";
 //#endregion
 
 
 const Hero = () => {
   return (
-    <>
-      <Container sx={{ height: "100dvh" }}>
-        <Typography color="primary" variant="h1">Zaquesazipa </Typography>
-      </Container>
-    </>
+    <Box sx={{ textAlign: 'center', mt: 8, mb: 4 }} >
+      <Box item >
+        <H1 sx={{ color: '#FFFF', fontSize: { xs: '2rem', sm: '3rem', md: '4rem' } }}>
+          Zaquesazipa
+        </H1>
+      </Box>
+      <Box >
+        <H2>
+          XVIII FESTIVAL DE ARTE Y CULTURA
+        </H2>
+      </Box>
+      <Grid>
+        <Typography
+          variant="h5"
+          color="accent.main"
+        >
+          FUNZA 2025
+        </Typography>
+      </Grid>
+    </Box >
   )
 }
 
