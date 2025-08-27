@@ -6,7 +6,6 @@ A modern, responsive redesign of the official Festival Zaque Sa Zipa website, bu
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Funza](<![<https://en.wikipedia.org/wiki/Funza#/media/File:Escudo_de_Funza_(Cundinamarca).svg>](https://www.funza-cundinamarca.gov.co/sites/funzacundinamarca/content/files/002397/119824_119329_logo_200x200_200x200.png)>)](https://www.funza-cundinamarca.gov.co/)
 
 <!-- ![Project Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+of+Your+Project)
 _Replace this with a real screenshot of your project_ -->
