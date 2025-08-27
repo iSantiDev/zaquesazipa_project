@@ -10,7 +10,7 @@ const Hero = () => {
     <Box sx={{ textAlign: 'center', alignContent: 'center', height: '100vh' }} >
       <Box item >
         <H1 aria-label="Title">
-          Zaquesazipa
+          ZAQUESAZIPA
         </H1>
       </Box>
       <Box >
