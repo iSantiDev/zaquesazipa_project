@@ -12,7 +12,7 @@ _Replace this with a real screenshot of your project_ -->
 
 ## 🌐 Live Demo
 
-_Project is not yet deployed - [Cloudflare Pages](https://pages.cloudflare.com/) recommended for hosting_
+_Project is not yet deployed - [Original Page](https://festivalzaquesazipa.com/)_
 
 ## ✨ Features
 
@@ -86,12 +86,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 🙏 Acknowledgments
 
 -   Original design and concept by [Festival Zaquesazipa](https://festivalzaquesazipa.com/).
--   Thanks to the teams behind [React](https://reactjs.org/), [Vite](https://vitejs.dev/), and [Material-UI](https://mui.com/).
 
 ---
 
 ### 📞 Contact
 
-Santiago - [@iSantiDev](https://github.com/iSantiDev) - [kevin-sierra-rodriguez] (https://www.linkedin.com/in/kevin-sierra-rodriguez-7280b9284/)
+Santiago - [@iSantiDev](https://github.com/iSantiDev) - [kevin-sierra-rodriguez](https://www.linkedin.com/in/kevin-sierra-rodriguez-7280b9284/)
 
 Project Link: [https://github.com/iSantiDev/zaquesazipa_project](https://github.com/iSantiDev/zaquesazipa_project)
