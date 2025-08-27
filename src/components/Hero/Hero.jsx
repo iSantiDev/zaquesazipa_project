@@ -1,5 +1,5 @@
 //#region imports
-import { Grid, Box } from "@mui/material";
+import { Box } from "@mui/material";
 import { H1, H2, H5 } from "/src/theme/typography.jsx";
 import sculpture from "/src/assets/images/sculpture.png";
 //#endregion
