@@ -17,6 +17,8 @@ export const H1 = (props) => {
       component="h1"
       fontWeight={600}
       ellipsis={ellipsis}
+      padding={0}
+      margin={0}
       className={clsx({
         [className || ""]: true,
       })}
@@ -35,6 +37,8 @@ export const H2 = (props) => {
       component="h2"
       fontWeight={600}
       ellipsis={ellipsis}
+      padding={0}
+      margin={0}
       className={clsx({
         [className || ""]: true,
       })}
@@ -53,6 +57,8 @@ export const H3 = (props) => {
       component="h3"
       fontWeight={600}
       ellipsis={ellipsis}
+      padding={0}
+      margin={0}
       className={clsx({
         [className || ""]: true,
       })}
@@ -71,6 +77,8 @@ export const H4 = (props) => {
       component="h4"
       fontWeight={600}
       ellipsis={ellipsis}
+      padding={0}
+      margin={0}
       className={clsx({
         [className || ""]: true,
       })}
@@ -90,6 +98,8 @@ export const H5 = (props) => {
       lineHeight={1}
       fontWeight={600}
       ellipsis={ellipsis}
+      padding={0}
+      margin={0}
       className={clsx({
         [className || ""]: true,
       })}
@@ -108,6 +118,8 @@ export const H6 = (props) => {
       component="h6"
       fontWeight={600}
       ellipsis={ellipsis}
+      padding={0}
+      margin={0}
       className={clsx({
         [className || ""]: true,
       })}
