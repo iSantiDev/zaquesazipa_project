@@ -3,6 +3,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { CssBaseline, ThemeProvider } from '@mui/material'
 import Hero from './components/Hero/Hero.jsx'
+import Info from './components/Info.jsx/Info.jsx'
 import theme from '/src/theme/index.jsx'
 //#endregion
 
@@ -16,6 +17,7 @@ createRoot(document.getElementById('root')).render(
     <ThemeProvider theme={theme}>
       <CssBaseline />
       <Hero />
+      <Info />
     </ThemeProvider>
   </StrictMode>,
 )
